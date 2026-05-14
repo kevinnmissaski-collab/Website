@@ -1,0 +1,15 @@
+C:\Users\Dylan\OneDrive\Documents\GitHub\Website\SwimmingProject\SwimmingProject\bin\Debug\net9.0\SwimmingProject.exe
+C:\Users\Dylan\OneDrive\Documents\GitHub\Website\SwimmingProject\SwimmingProject\bin\Debug\net9.0\SwimmingProject.deps.json
+C:\Users\Dylan\OneDrive\Documents\GitHub\Website\SwimmingProject\SwimmingProject\bin\Debug\net9.0\SwimmingProject.runtimeconfig.json
+C:\Users\Dylan\OneDrive\Documents\GitHub\Website\SwimmingProject\SwimmingProject\bin\Debug\net9.0\SwimmingProject.dll
+C:\Users\Dylan\OneDrive\Documents\GitHub\Website\SwimmingProject\SwimmingProject\bin\Debug\net9.0\SwimmingProject.pdb
+C:\Users\Dylan\OneDrive\Documents\GitHub\Website\SwimmingProject\SwimmingProject\obj\Debug\net9.0\SwimmingProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dylan\OneDrive\Documents\GitHub\Website\SwimmingProject\SwimmingProject\obj\Debug\net9.0\SwimmingProject.AssemblyInfoInputs.cache
+C:\Users\Dylan\OneDrive\Documents\GitHub\Website\SwimmingProject\SwimmingProject\obj\Debug\net9.0\SwimmingProject.AssemblyInfo.cs
+C:\Users\Dylan\OneDrive\Documents\GitHub\Website\SwimmingProject\SwimmingProject\obj\Debug\net9.0\SwimmingProject.csproj.CoreCompileInputs.cache
+C:\Users\Dylan\OneDrive\Documents\GitHub\Website\SwimmingProject\SwimmingProject\obj\Debug\net9.0\SwimmingProject.sourcelink.json
+C:\Users\Dylan\OneDrive\Documents\GitHub\Website\SwimmingProject\SwimmingProject\obj\Debug\net9.0\SwimmingProject.dll
+C:\Users\Dylan\OneDrive\Documents\GitHub\Website\SwimmingProject\SwimmingProject\obj\Debug\net9.0\refint\SwimmingProject.dll
+C:\Users\Dylan\OneDrive\Documents\GitHub\Website\SwimmingProject\SwimmingProject\obj\Debug\net9.0\SwimmingProject.pdb
+C:\Users\Dylan\OneDrive\Documents\GitHub\Website\SwimmingProject\SwimmingProject\obj\Debug\net9.0\SwimmingProject.genruntimeconfig.cache
+C:\Users\Dylan\OneDrive\Documents\GitHub\Website\SwimmingProject\SwimmingProject\obj\Debug\net9.0\ref\SwimmingProject.dll
